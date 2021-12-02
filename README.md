@@ -5,3 +5,4 @@ The process involved the preparation process of the data, like cleaning, wrangli
 
 - More details about the project can be found in the project brief in the [Project Management](https://github.com/fardil-b/CF_Python_Instacart/tree/main/01%20Project%20Management) folder.
 - The final report including visualization are found in the Sent to client [Sent to client](https://github.com/fardil-b/CF_Python_Instacart/tree/main/05%20Sent%20to%20client) folder.
+- The [Scripts](https://github.com/fardil-b/CF_Python_Instacart/tree/main/03%20Scripts) folder contains all the Jupyter Notebooks.
